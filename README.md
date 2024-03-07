@@ -9,7 +9,7 @@ React JS
 
 # Installation  
 To install the application, follow these steps:  
-Clone the repository: git clone https://github.com/myshyspy/Shoppers.git  
+Clone the repository: git clone https://github.com/mrshyspy/shopper.com  
 Install dependencies: npm install  
 Run the application: npm start
 
